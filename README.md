@@ -5,10 +5,11 @@
 <pre>
 $option["cdn"] = "Your Image CDN";
 </pre>
-<h1>How To Use ? </h1> <br />
+<h1>How To Use ? </h1>
 just simply :
 <pre>
 &lt;?php
 echo translate($url, $FromLanguage, $ToLanguage, $option);
 ?&gt;
 </pre>
+
