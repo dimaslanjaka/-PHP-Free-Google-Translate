@@ -1,4 +1,4 @@
-# -PHP-Free-Google-Translate
+# -PHP-Free-Google-Translate (Officially By L3n4r0x)
 <h3>Translate any websites from PHP </h3>
 <h2>Options (Array)</h2>
 - Manipulate Images With Your CDNs <br />
