@@ -3,7 +3,7 @@
 <h2>Options (Array)</h2>
 - Manipulate Images With Your CDNs <br />
 <pre>
-$option["cdn"] = "Your Image CDN";
+$option["cdn"] = "https://res.cloudinary.com/dimaslanjaka/image/fetch/"; //Change to your Images CDN
 </pre>
 <h1>How To Use ? </h1>
 just simply :
