@@ -7,10 +7,10 @@ $option["cdn"] = "https://res.cloudinary.com/dimaslanjaka/image/fetch/"; //Chang
 </pre>
 <h1>How To Use ? </h1>
 just simply :
-<pre>
-&lt;?php
+```php
+&lt;php
 include("translate.php");
 echo translate($url, $FromLanguage, $ToLanguage, $option); //Country Code like id, ru, es, fr, br, etc
 ?&gt;
-</pre>
+```
 
